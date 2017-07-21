@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/autotag.iml" filepath="$PROJECT_DIR$/autotag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundle/autotag-bundle.iml" filepath="$PROJECT_DIR$/bundle/autotag-bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/content/autotag-content.iml" filepath="$PROJECT_DIR$/content/autotag-content.iml" />
+    </modules>
+  </component>
+</project>
