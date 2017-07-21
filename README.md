@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AEM Autotag Demo Project
 ========
 
@@ -28,3 +29,7 @@ The CRX host and port can be specified on the command line with:
 mvn -Dcrx.host=otherhost -Dcrx.port=5502 <goals>
 
 
+=======
+# Auto-Detect-label
+Use AWS Rekognition ML API to automatically  detect labels of image
+>>>>>>> 7975d7f829be6f471d6d8c21054d491ae1e2f0f2
